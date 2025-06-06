@@ -7,7 +7,7 @@ const ExperienceSection = () => {
       location: "Madison, WI",
       period: "Aug 2023 - May 2025",
       highlights:
-        "Assisted in teaching computer science courses (: Foundations of Mobile Systems and Applications, Topics in Database Management Systems, Software Engineering), graded assignments, and held office hours",
+        "Assisted in teaching computer science courses ( Foundations of Mobile Systems and Applications, Topics in Database Management Systems, Software Engineering), graded assignments, and held office hours",
     },
     {
       role: "Software Engineer Co-op",
