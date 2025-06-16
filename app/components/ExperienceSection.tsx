@@ -7,7 +7,7 @@ const ExperienceSection = () => {
       location: "San Francisco, CA",
       period: "Jun 2023 - Present",
       highlights:
-        "Working with the UI development of Integrations Dashboard with the Integrations team under Platform Team. Development included using Vue.js, Springboot, Java, Javascript"
+        "Working on the UI development of Integrations Dashboard with the Integrations team under Platform Team. Development included using Vue.js, Springboot, Java, Javascript"
 
     },
     {
@@ -21,7 +21,7 @@ const ExperienceSection = () => {
     },
     {
       role: "Software Engineer Co-op",
-	  id: 2,
+	  id: 3,
       company: "Electric Hydrogen",
       location: "Framingham, MA",
       period: "Jun 2024 - Dec 2025",
@@ -30,7 +30,7 @@ const ExperienceSection = () => {
     },
     {
       role: "Software Engineer",
-	  id: 3,
+	  id: 4,
       company: "JPMorgan Chase & Co.",
       location: "Hyderabad, India",
       period: "Aug 2021 - Aug 2023",
@@ -39,7 +39,7 @@ const ExperienceSection = () => {
     },
     {
       role: "Software Engineer Intern",
-	  id: 4,
+	  id: 5,
       company: "JPMorgan Chase & Co.",
       location: "Hyderabad, India",
       period: "Jan 2021 - May 2021",
