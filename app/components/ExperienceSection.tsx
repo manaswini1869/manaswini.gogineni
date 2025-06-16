@@ -1,8 +1,18 @@
 const ExperienceSection = () => {
   const experiences = [
     {
-      role: "Teaching Assistant",
+      role: "Software Engineer Intern",
 	  id: 1,
+      company: "Cisco ThousandEyes",
+      location: "San Francisco, CA",
+      period: "Jun 2023 - Present",
+      highlights:
+        "Working with the UI development of Integrations Dashboard with the Integrations team under Platform Team. Development included using Vue.js, Springboot, Java, Javascript"
+
+    },
+    {
+      role: "Software Engineer Intern",
+      id: 2,
       company: "University of Wisconsin- Madison",
       location: "Madison, WI",
       period: "Aug 2023 - May 2025",
