@@ -5,7 +5,7 @@ const ExperienceSection = () => {
 	  id: 1,
       company: "Cisco ThousandEyes",
       location: "San Francisco, CA",
-      period: "Jun 2023 - Present",
+      period: "Jun 2025 - Present",
       highlights:
         "Working on the UI development of Integrations Dashboard with the Integrations team under Platform Team. Development included using Vue.js, Springboot, Java, Javascript"
 
