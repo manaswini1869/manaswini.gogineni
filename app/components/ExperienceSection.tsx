@@ -2,22 +2,22 @@ const ExperienceSection = () => {
   const experiences = [
     {
       role: "Software Engineer Intern",
-	  id: 1,
-      company: "Cisco ThousandEyes",
-      location: "San Francisco, CA",
-      period: "Jun 2025 - Present",
-      highlights:
-        "Working on the UI development of Integrations Dashboard with the Integrations team under Platform Team. Development included using Vue.js, Springboot, Java, Javascript"
-
-    },
-    {
-      role: "Software Engineer Intern",
-      id: 2,
+      id: 1,
       company: "University of Wisconsin- Madison",
       location: "Madison, WI",
-      period: "Aug 2023 - May 2025",
+      period: "Aug 2023 - December 2025",
       highlights:
         "Assisted in teaching computer science courses ( Foundations of Mobile Systems and Applications, Topics in Database Management Systems, Software Engineering), graded assignments, and held office hours",
+    },
+
+    {
+      role: "Software Engineer Intern",
+	  id: 2,
+      company: "Cisco ThousandEyes",
+      location: "San Francisco, CA",
+      period: "Jun 2025 - Aug 2025",
+      highlights:
+        "Built an integration dashboard with OAuth-enabled automation workflows and comprehensive Cypress tests, boosting coverage by 80\% in collaboration with cross-functional teams."
     },
     {
       role: "Software Engineer Co-op",
