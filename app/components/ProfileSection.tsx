@@ -98,7 +98,7 @@ const ProfileSection = () => {
               </svg>
             </a>
             <a
-              href="https://drive.google.com/file/d/10djmExRSqvXGxRYYsHdWhivXOvrTrKrP/view?usp=sharing"
+              href="https://drive.google.com/file/d/10emWj_O4M68NM9y170hOT13LGfa52ra3/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 text-gray-600 hover:text-gray-900"
