@@ -24,7 +24,7 @@ const ExperienceSection = () => {
 	  id: 3,
       company: "Electric Hydrogen",
       location: "Framingham, MA",
-      period: "Jun 2024 - Dec 2025",
+      period: "Jun 2024 - Dec 2024",
       highlights:
         "Optimized monitoring, reliability, and database performance of a high-traffic AWS app, boosting alert coverage by 40% and efficiency by 35% through custom tooling, dead-letter queues, and query optimization.",
     },
